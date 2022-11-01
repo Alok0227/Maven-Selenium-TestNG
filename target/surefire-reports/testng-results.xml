@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-01T23:32:16 IST" name="Suite" finished-at="2022-11-01T23:32:30 IST" duration-ms="13770">
+    <groups>
+    </groups>
+    <test started-at="2022-11-01T23:32:16 IST" name="Test" finished-at="2022-11-01T23:32:30 IST" duration-ms="13770">
+      <class name="com.alok.T_LOGIN">
+        <test-method signature="Login()[pri:0, instance:com.alok.T_LOGIN@619713e5]" started-at="2022-11-01T23:32:16 IST" name="Login" finished-at="2022-11-01T23:32:30 IST" duration-ms="13662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- com.alok.T_LOGIN -->
+      <class name="com.alok.AppTest">
+        <test-method signature="testlogin1()[pri:0, instance:com.alok.AppTest@188715b5]" started-at="2022-11-01T23:32:30 IST" name="testlogin1" finished-at="2022-11-01T23:32:30 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin1 -->
+        <test-method signature="testlogin2()[pri:0, instance:com.alok.AppTest@188715b5]" started-at="2022-11-01T23:32:30 IST" name="testlogin2" finished-at="2022-11-01T23:32:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin2 -->
+      </class> <!-- com.alok.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
